@@ -1,6 +1,6 @@
 .catalog:
    name: flask
-   version: 0.63.1-rancher
+   version: 1.0.0-rancher
    description: |
 Cloudsoar flask Web
    questions:
